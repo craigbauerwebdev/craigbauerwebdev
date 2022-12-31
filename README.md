@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @craigbauerwebdev
-- 👀 I’m interested in application dev, unity and Unreal Engine Game dev, Virtual Reality and Augmented Reality dev.
+- 👀 I’m interested in application dev, unity and Game dev, Virtual Reality and Augmented Reality dev.
 - 🌱 I’m currently learning Unity and C#.
 - 💞️ I’m currently not looking to collaborate on anything at the moment but I am willing to make exceptions if it is a good learning experience.
 - 📫 How to reach me - Email
