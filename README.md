@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @craigbauerwebdev
-- 👀 I’m interested in application dev with React JS / Redux / Sass, unity and Game dev, VR and AR dev.
-- 🌱 I’m currently learning Test Driven Development, Unity and C#.
+- 👋 Hi, I’m Craig @craigbauerwebdev
+- 👀 I’m interested in application dev with React JS / Next JS / Redux / Sass, unity and Game dev.
+- 🌱 I’m currently learning Test Driven Development.
 - 💞️ I’m currently not looking to collaborate on anything at the moment but I am willing to make exceptions if it is a good learning experience.
 - 📫 How to reach me - Email
 
